@@ -1,0 +1,6 @@
+# Directory
+testFolder
+
+# Files
+*.log
+!debug-exclude.log

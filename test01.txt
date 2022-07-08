@@ -1,1 +1,2 @@
 Questo è il primo file di test
+Riga aggiunta e committata nel branch ramo02
